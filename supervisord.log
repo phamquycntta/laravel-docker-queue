@@ -1,0 +1,24 @@
+2020-07-13 03:07:02,135 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-07-13 03:07:02,139 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2020-07-13 03:07:02,156 INFO supervisord started with pid 1
+2020-07-13 03:07:03,160 INFO spawned: 'php-fpm' with pid 8
+2020-07-13 03:07:04,323 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-07-13 03:27:46,344 WARN received SIGQUIT indicating exit request
+2020-07-13 03:27:46,345 INFO waiting for php-fpm to die
+2020-07-13 03:27:46,350 INFO stopped: php-fpm (exit status 0)
+2020-07-13 03:34:11,199 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-07-13 03:34:11,201 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2020-07-13 03:34:11,215 INFO supervisord started with pid 1
+2020-07-13 03:34:12,219 INFO spawned: 'php-fpm' with pid 8
+2020-07-13 03:34:13,347 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-07-13 10:10:14,703 WARN received SIGQUIT indicating exit request
+2020-07-13 10:10:14,705 INFO waiting for php-fpm to die
+2020-07-13 10:10:14,716 INFO stopped: php-fpm (exit status 0)
+2020-07-15 09:30:15,963 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-07-15 09:30:15,964 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2020-07-15 09:30:15,977 INFO supervisord started with pid 1
+2020-07-15 09:30:16,981 INFO spawned: 'php-fpm' with pid 8
+2020-07-15 09:30:18,131 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-07-15 11:20:01,194 WARN received SIGQUIT indicating exit request
+2020-07-15 11:20:01,197 INFO waiting for php-fpm to die
+2020-07-15 11:20:01,201 INFO stopped: php-fpm (exit status 0)
